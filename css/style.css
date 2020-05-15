@@ -1,0 +1,63 @@
+body {
+	background-color: #DCFCFE;
+}
+
+#first-screen {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#second-screen {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.container {
+	margin-top: 200px;
+	max-width: 800px;
+	background-color: #D3FCF1;
+	border: 6px solid #59FACE;
+    border-radius: 25px
+}
+
+h1 {
+	justify-content: center;
+	padding-bottom: 20px;
+	padding-top: 30px;
+}
+
+.buttons {
+	padding-bottom: 30px;
+}
+
+.show-result {
+	padding-bottom: 30px;
+}
+
+#cats {
+	margin-bottom: 20px;
+}
+
+#dogs {
+	margin-bottom: 20px;
+}
+
+#parrots {
+	margin-bottom: 20px;
+}
+
+p {
+	margin-bottom: 2px;
+}
+
+.show-vote {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-bottom: 30px;
+
+}
